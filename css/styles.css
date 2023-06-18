@@ -127,18 +127,22 @@ body {
 /* END OF NAV*/
 
 
-
+.header{
+  background-color: #3E3636;
+  padding-bottom: 30px;
+  color: #F5EDED;
+}
 
 .section {
-  padding: 50px;
-  border-radius: 10px;
+  padding: 30px;
+  border-radius: 5px;
  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
- transition: transform 0.3s ease, box-shadow 0.3s ease;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
   color: #F6F4F4;
   font-size: 20px;
 }
 .section:hover {
-  transform: scale(1.05);
+  transform: scale(1.02);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -166,9 +170,6 @@ width: 350px;
 height: 350px;
 }
 
-.frontend{
-  color: #D72323;
-}
 
 .button {
   display: inline-block;
@@ -277,8 +278,8 @@ height: 350px;
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #33383b;
-	color: #ffffff;
+	background-color:  #D72323;
+	color: #000000;
 	font-size: 25px;
 	width: 38px;
 	height: 38px;
@@ -359,11 +360,11 @@ height: 350px;
 	width: 35px;
 	height: 35px;
 	cursor: pointer;
-	background-color:  #33383b;
+	background-color:  #D72323;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #ffffff;
+	color: #000000;
 	text-align: center;
 	line-height: 35px;
 
