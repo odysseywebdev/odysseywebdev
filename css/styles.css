@@ -8,7 +8,7 @@ body {
 .container {
   display: flex;
   align-items: center;
-  background-color: #3E3636;
+  background-color: #666666;
 }
 
 img {
