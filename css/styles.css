@@ -486,7 +486,7 @@ height: 350px;
   #contact .form-group input[type="email"],
   #contact .form-group input[type="tel"],
   #contact .form-group textarea {
-    width: 500px;
+    width: 80%;
     padding: 15px;
     border-radius: 10px;
     border: none;
