@@ -542,7 +542,7 @@ height: 350px;
 
   /*contact form */
   #contact {
-    background-image: url('file:///C:/Users/fallo/Documents/Work/Web/odysseywebnew/images/contact-bg.jpg');
+    background-image: url('https://raw.githubusercontent.com/odysseywebdev/odysseywebdev/main/images/contact-bg.jpg');
     background-size: cover;
     opacity: 0.9;
     padding-left: 8%;
