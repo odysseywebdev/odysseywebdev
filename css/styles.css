@@ -658,7 +658,7 @@ background-size: cover;
 
 
   .header-about{
-    background-image: url('file:///C:/Users/fallo/Documents/Work/Web/odysseywebnew/images/gibraltar.png');
+    background-image: url('https://raw.githubusercontent.com/odysseywebdev/odysseywebdev/main/images/contact-bg.jpg');
     opacity: 0.9;
     color: #ffffff;
     padding-bottom: 20px;
