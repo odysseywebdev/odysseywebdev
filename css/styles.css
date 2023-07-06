@@ -762,21 +762,21 @@ background-size: cover;
   padding-top: 10%;
   padding-bottom: 10%;
   color: #efefef;
-  background-image: url('file:///C:/Users/fallo/Documents/Work/Web/odysseywebnew/images/webdev.jpg');
+  background-image: url('https://raw.githubusercontent.com/odysseywebdev/odysseywebdev/main/images/webdev.jpg');
 }
 .header-hostmain{
 
   padding-top: 10%;
   padding-bottom: 10%;
   color: #efefef;
-  background-image: url('file:///C:/Users/fallo/Documents/Work/Web/odysseywebnew/images/server.jpg');
+  background-image: url('https://raw.githubusercontent.com/odysseywebdev/odysseywebdev/main/images/server.jpg');
 background-size: cover;
 }
 .header-logo{
   padding-top: 10%;
   padding-bottom: 10%;
   color: #efefef;
-  background-image: url('file:///C:/Users/fallo/Documents/Work/Web/odysseywebnew/images/laptoptable.jpg');
+  background-image: url('https://raw.githubusercontent.com/odysseywebdev/odysseywebdev/main/images/laptoptable.jpg');
 background-size: cover;
 }
 .body-about{
